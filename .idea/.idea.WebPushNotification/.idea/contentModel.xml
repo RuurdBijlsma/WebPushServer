@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ruurd\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_WebPushNotification.-1726323909.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ruurd\Documents\WebPushNotification" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebPushNotification" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="clients.json" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="SendNotificationController.cs" t="Include" />
+          <e p="SubscribeController.cs" t="Include" />
+          <e p="UnsubscribeController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Notification.cs" t="Include" />
+          <e p="PushClient.cs" t="Include" />
+          <e p="PushServer.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="WebPushNotification.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="vapidDetails.json" t="Include" />
+        <e p="WebPushNotification.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="WebPushNotification.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
